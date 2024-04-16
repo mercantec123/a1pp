@@ -1,0 +1,50 @@
+Link:
+https://www.learnspace.dk/course/view.php?id=3039
+
+power of Microsoft products (Azure)
+https://docs.microsoft.com/en-us/learn/browse/
+
+RDP Azure Firewall:
+https://mattchatt.co.za/secure-rdp-using-azure-firewall/
+
+Github Suppliment
+https://www.androidauthority.com/github-git-tutorial-995047/
+
+
+Good Azure
+https://www.golinuxcloud.com/create-vm-in-azure-step-by-step/
+
+Azure DPM
+https://abouconde.com/2019/03/19/installing-the-azure-backup-server-mabs/
+
+
+
+
+
+IB:
+Core product of Azure are
+
+	
+	Azure compute products
+	
+	
+	Azure networking products
+	
+	
+	Azure storage products
+	
+	
+	Azure database products
+
+Solution available in Azure are
+	
+	Internet of Things (IoT)
+	
+	
+	Big Data and analytics
+	
+	
+	Artificial Intelligence
+	
+
+	Serverless computing
